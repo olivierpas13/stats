@@ -1,0 +1,13 @@
+- Define técnica y metodos para organizar, sistematizar, representar y resumir datos
+conocidos.
+
+Analisis descriptivo para datos numéricos
+	- Histograma -- distribución
+	- Ojiva de frecuencias -- acumulación de datos
+	- Diagrama de cajas (Box plot) -- distribución y datos outliars
+
+Medidas de resumen
+	- Tendencia central - punto central de la data
+	- Dispersión - grado de concentración (dispersión)
+	- Posición -- puntos de corte para grados de conc.
+	- Forma -- características específicas;

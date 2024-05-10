@@ -1,0 +1,6 @@
+Parametro - cte y desconocido // población
+Estimador - no cte y conocido // muestra
+
+Datos discretos - conteo
+Datos continuos - medida
+
